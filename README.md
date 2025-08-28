@@ -23,7 +23,8 @@ Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedi
 ---
 ## 💡Project Architecture
 
-(https://github.com/prabalpkd/LinkedIn-Post-Generator/blob/main/Project%20Archtecture.png)
+![Figure](https://github.com/prabalpkd/LinkedIn-Post-Generator/blob/main/Project%20Archtecture.png)
+Figure_Credit: Codebasics.io
 
 ---
 
@@ -95,7 +96,7 @@ Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedi
 ●🔗 Integration with LinkedIn API for auto-publishing.
 
 ## Author:
-Prabal Kumar Deka
-Future Ready Data Scientist/GenAI Engineer
+● Prabal Kumar Deka
+● Future Ready Data Scientist/GenAI Engineer
 
 
