@@ -5,6 +5,11 @@ A **Generative AI-powered tool** that helps LinkedIn influencers and content cre
 This project uses **LangChain, Llama-3.3-70B, Groq Cloud, and Streamlit** to provide an intuitive UI where users can select topics, length, and language — and instantly get a LinkedIn-style post.
 
 ---
+## 🔗 Live Demo
+
+Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedin-post-generator-hsbgnj9hjraguwgpp7encp.streamlit.app/))
+
+---
 
 ## ✨ Features  
 
@@ -15,6 +20,11 @@ This project uses **LangChain, Llama-3.3-70B, Groq Cloud, and Streamlit** to pro
 - ✅ **Streamlit-based UI** for easy interaction.  
 - ✅ Powered by **Groq Cloud** for ultra-fast inference.  
 
+---
+## 💡Technical Architecture
+
+![App Screenshot](https://github.com/prabalpkd/Credit-Risk-Model-ML-Project/blob/main/Real-Time-Prediction-Interface.png)
+Credit:Codebasics.io
 ---
 
 ## ⚙️ Working Structure  
