@@ -7,7 +7,7 @@ This project uses **LangChain, Llama-3.3-70B, Groq Cloud, and Streamlit** to pro
 ---
 ## 🔗 Live Demo
 
-Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedin-post-generator-hsbgnj9hjraguwgpp7encp.streamlit.app/))
+Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedin-post-generator-hsbgnj9hjraguwgpp7encp.streamlit.app/)
 
 ---
 
@@ -21,10 +21,10 @@ Check out the live Streamlit app here: [LinkedIn Post Generator](https://linkedi
 - ✅ Powered by **Groq Cloud** for ultra-fast inference.  
 
 ---
-## 💡Technical Architecture
+## 💡Project Architecture
 
-![App Screenshot](https://github.com/prabalpkd/Credit-Risk-Model-ML-Project/blob/main/Real-Time-Prediction-Interface.png)
-Credit:Codebasics.io
+(https://github.com/prabalpkd/LinkedIn-Post-Generator/blob/main/Project%20Archtecture.png)
+
 ---
 
 ## ⚙️ Working Structure  
