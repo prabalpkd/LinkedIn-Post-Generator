@@ -1,0 +1,5 @@
+streamlit==1.47.1
+langchain-core== 0.3.75
+langchain_groq== 0.3.7
+pandas==2.3.1
+python-dotenv==1.1.1
