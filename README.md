@@ -103,15 +103,20 @@ Figure_Credit: Codebasics.io
 ##🔮 Future Enhancements
 
 ●🌍 Multi-language post generation.
+
 ●📝 Save user writing styles for consistency.
+
 ●📊 Engagement prediction analytics.
+
 ●📅 Batch post generation for scheduling.
+
 ●🔗 Integration with LinkedIn API for auto-publishing.
 
 ---
 
 ## Author:
 ● Prabal Kumar Deka
+
 ● Future Ready Data Scientist/GenAI Engineer
 
 
