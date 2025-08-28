@@ -63,15 +63,26 @@ Figure_Credit: Codebasics.io
 ## 📂 Project Structure  
 
 ├── .env                  
+
 ├── requirements.txt      # Dependencies
+
 ├── main.py               # Streamlit UI
+
 ├── post_generator.py     # Prompt builder + post generation
+
 ├── few_shot5.py          # Few-shot examples handler
+
 ├── llm_helper3.py        # LLM configuration (Groq + LangChain)
+
 ├── preprocess2.py        # Preprocessing pipeline
+
 ├── data/
+
 │   ├── raw_posts1.json   # Raw influencer posts
+
 │   ├── processed_post4.json # Enriched posts with metadata
+
+---
 
 ##🖥️ Usage
 
@@ -87,6 +98,8 @@ Figure_Credit: Codebasics.io
 3. Click Generate → The app instantly generates a LinkedIn post.
 4. Copy & share your post on LinkedIn 🚀
 
+---
+
 ##🔮 Future Enhancements
 
 ●🌍 Multi-language post generation.
@@ -94,6 +107,8 @@ Figure_Credit: Codebasics.io
 ●📊 Engagement prediction analytics.
 ●📅 Batch post generation for scheduling.
 ●🔗 Integration with LinkedIn API for auto-publishing.
+
+---
 
 ## Author:
 ● Prabal Kumar Deka
